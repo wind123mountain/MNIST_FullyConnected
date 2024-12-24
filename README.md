@@ -10,6 +10,7 @@
 ## Requirement
 - OpenMPI
 - C++
+- Extract eigen.zip, MNIST_CSV.zip
 ## Compile
 ### Single Algo
 ```
