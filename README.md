@@ -1,4 +1,4 @@
-## Introduace
+## Introduce
 - Classification image use neuron network
 - Dataset: MNIST
 - Optimizer: mini-batch SGD (Single and Parallel)
